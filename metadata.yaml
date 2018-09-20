@@ -1,0 +1,25 @@
+_repo: The-Romance-of-Gilbert-Holmes-An-Historical-Novel_53006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kirkman, Marshall M. (Marshall Monroe)
+    alias: Kirkman, Marshall Monroe
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '47168'
+    url: http://www.gutenberg.org/2009/agents/47168
+description: ''
+gutenberg_issued: '2016-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black Hawk War, 1832 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Romance of Gilbert Holmes: An Historical Novel'
+url: http://www.gutenberg.org/ebooks/53006
